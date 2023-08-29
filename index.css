@@ -13,3 +13,29 @@ main {
 #reset {
   margin: 20px;
 }
+
+ .error-message {
+  color: red;
+  font-size: 1rem;
+  margin-top: 5px;
+}
+/*
+.messages-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+} */
+/* DISREGARD THIS
+I'M GOING TO TRY TO MAKE AN ANIMATION IF THEY GUESS CORRECT */
+/* @keyframes correctAnimation {
+  0% {
+    background-color: transparent;
+  }
+  100% {
+    background-color: aqua;
+  }
+}
+
+.correct-animation {
+  animation: correctAnimation 1s ease-in;
+} */
